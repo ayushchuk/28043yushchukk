@@ -1,0 +1,49 @@
+body {
+	background: whitesmoke;
+}
+
+h1 {
+	text-align: center; 
+	font-size: 35px;
+}
+
+.urll {
+	font-size: 24px; 
+	color: red;
+}
+
+.urrll {
+	font-size: 22px; 
+	color: black;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h6 {
+	text-align: center; 
+	font-size: 13px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+.curcol {
+	color: red; 
+	font-size: 19px;
+}
+
+.othcol {
+	color: black; 
+	font-size: 17px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+.syt {
+	font-size: 15px;
+}
